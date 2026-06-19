@@ -1,0 +1,17 @@
+jobmanager.rpc.address: flink-jobmanager
+jobmanager.rpc.port: 6123
+taskmanager.rpc.port: 6122
+taskmanager.numberOfTaskSlots: 4
+parallelism.default: 2
+rest.port: 8081
+sql-client.execution.max-table-result-rows: 1000000
+jobmanager.memory.flink.size: 1024m
+taskmanager.memory.flink.size: 1024m
+blob.server.port: 6124
+query.server.port: 6125
+jobmanager.rpc.address:flink-jobmanager
+jobmanager.rpc.address:flink-jobmanager
+jobmanager.rpc.address:flink-jobmanager
+jobmanager.rpc.address:flink-jobmanager
+jobmanager.rpc.address:flink-jobmanager
+jobmanager.rpc.address:flink-jobmanager
